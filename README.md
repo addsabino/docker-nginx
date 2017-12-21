@@ -1,5 +1,6 @@
 # About this Repo
 
-This is a Git Repo of Docker images. See the Hub page for the full Readme on how to use the Docker image and for information regarding contributing and issues:
+This is a Git Repo of Dockerfiles. The Docker images generated through the configuration files can be accessed at the following addresses:
+:)
 
 * [addsabino/nginx](https://hub.docker.com/r/addsabino/nginx/)
